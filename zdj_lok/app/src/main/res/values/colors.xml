@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#034C65</color>
+    <color name="purple_500">#034C65</color>
+    <color name="purple_700">#034C65</color>
+    <color name="teal_200">#034C65</color>
+    <color name="teal_700">#034C65</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="odcien1">#034C65</color>
+    <color name="odcien2">#EF8C86</color>
+    <color name="odcien3">#FCB677</color>
+    <color name="odcien4">#685268</color>
+    <color name="odcien5">#2F1F2B</color>
+</resources>
